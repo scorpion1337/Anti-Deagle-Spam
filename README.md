@@ -10,5 +10,6 @@ INSTALLATION.
 To install it just open the FTP of the server where you want to place it and follow these small steps.
 
 1 - csgo / addons / sourcemod / plugins
+
 2 - after you have done this, all you have to do is restart the server.
 
